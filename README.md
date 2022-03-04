@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LionOrion0507
 - 👀 I’m interested in programming, videogames, movies, and space.
-- 🌱 I’m currently learning more about programming and how to use it. Currently know some things about Python and C++, and a little bit of Java.
+- 🌱 I’m currently learning more about programming and how to use it. Currently know some things about Python and C++, SQL and HTML.
 - 💞️ I’m looking to collaborate on anything, really. I haven't really defined what I want to do yet.
 - 📫 How to reach me ...
 

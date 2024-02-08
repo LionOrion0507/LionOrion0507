@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LionOrion0507
 - 👀 I’m interested in programming, videogames, movies, and space.
-- 🌱 I’m currently learning more about programming and how to use it. Currently know some things about Python and C++, SQL and HTML.
-- 💞️ I’m looking to collaborate on anything, really. I haven't really defined what I want to do yet.
+- 🌱 I’m currently learning more about programming and how to use it. I have experience in Python, C++, SQL, Typescript & HTML.
+- 💞️ I’m looking to gain experience in front-end development first, then branch into back-end and become a fullstack developer. I primarily use React and Next.js, can use npm & yarn as package managers.
 - 📫 How to reach me ...
 
 <!---
